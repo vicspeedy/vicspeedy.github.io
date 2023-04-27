@@ -37,9 +37,11 @@ body{
     font-size: xx-large;
     font-weight: 800;
 }
+
 p{
     text-align: left;
 }
+
 /*.row{
     color: white;
 }*/
@@ -59,6 +61,7 @@ h5{
     padding-top: 4%;
     padding-bottom: 4%;
 }
+
 .form{
     align-content: center;
     color: white;
@@ -71,13 +74,17 @@ div.pie{
     margin-top: 3%;
     text-align: right;
 }
+
 aside{
     text-align: left;
     font-weight: 300;
 }
+
+
 .icon{
     text-align: right;
 }
+
 div.pie, aside, .icon{
     display: inline-block;
     width: 100%;
