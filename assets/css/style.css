@@ -1,0 +1,87 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family: 'Releway', sans-serif;
+}
+
+#navegacion{ /*revisar nombre*/
+    color: white;
+    padding: 1%;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.navbar {
+    background-color: transparent !important;
+    color:white;
+}
+
+.bg-interno{
+    background-color: #16a2b7;
+    transition: all 2s ease;
+}
+
+.navbar-light, .navbar-nav, .nav-link{
+    color: white; 
+}
+
+.ifa{ /*revisar css id*/
+    text-align: center;
+    color: white;
+    padding-left: 45%;
+    padding-right: 45%;
+    font-size: xx-large;
+    font-weight: 800;
+}
+p{
+    text-align: left;
+}
+/*.row{
+    color: white;
+}*/
+
+/*.card-img-top img{
+    max-height: 150px;
+}*/
+
+.card-text{
+    color: white
+}
+
+h5{
+    text-align: center;
+    font-weight: 300;
+    color: white;
+    padding-top: 4%;
+    padding-bottom: 4%;
+}
+.form{
+    align-content: center;
+    color: white;
+    padding-left: 7.5%;
+    padding-right: 7.5%;
+}
+
+div.pie{
+    /*color: white;*/
+    margin-top: 3%;
+    text-align: right;
+}
+aside{
+    text-align: left;
+    font-weight: 300;
+}
+.icon{
+    text-align: right;
+}
+div.pie, aside, .icon{
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+    padding: 1%;
+    font-size: x-large;
+}
